@@ -14,14 +14,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>Example</title>
-    <link rel="stylesheet" src="/css/styles.css">
+    <link rel="stylesheet" src="css/styles.css">
   </head>
   <body>
-    <img src="/images/test.png" alt="Test Image">
+    <img src="images/test.png" alt="Test Image">
     <h1>This is a test</h1>
+    <script src="js/main.js"></script>
   </body>
-  <script src="/js/main.js"></script>
 </html>
 ```
 
